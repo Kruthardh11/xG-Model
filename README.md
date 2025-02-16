@@ -6,6 +6,7 @@ What exactly are Expected Goals?
 It is a metric that assigns a value between 0 and 1 indicating whether that particular shot results in a goal. 
 0: No chance of scoring
 1: Certain goal
+
 The process:
 1. Collecting Data  
 To calculate xG, a large amount of data is gathered for every shot taken in a match. Some key details include:  
