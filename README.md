@@ -34,7 +34,8 @@ Where:
 - Defensive Pressure – More defenders around the shooter reduce the xG.  
 - Assist Type – Through balls and crosses often lead to higher xG chances.  
 
-Different data providers use their own models with various factors to estimate xG. If you build your own model, you can experiment with different variables to find the best way to predict scoring probabilities. 
+Different data providers use their own models with various factors to estimate xG. If you build your own model, you can experiment with different variables to find the best way to predict scoring probabilities.
+
 How xG is Useful
 -	Performance Analysis – Helps determine if a team's results are based on skill or luck.
 -	Player Evaluation – Measures a player's finishing ability based on the quality of their chances, often visualized with a shot map.
