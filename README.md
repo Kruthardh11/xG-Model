@@ -20,7 +20,8 @@ To calculate xG, a large amount of data is gathered for every shot taken in a ma
 A common method to calculate xG is Logistic Regression, since the result of a shot is either a goal (1) or no goal (0).  
 
 The logistic regression formula looks like this:  
- 
+ ![lrformula](https://github.com/user-attachments/assets/f6418f0e-a759-4c65-b792-f133a1c5c204)
+
 Where:  
 - P(Goal) = Probability of the shot becoming a goal.  
 - e = Euler’s number (~2.718).  
