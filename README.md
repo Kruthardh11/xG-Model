@@ -48,6 +48,15 @@ Limitations of xG
 -	Model Variations: Different providers use different models; xG values can vary. That is why you might see Sofascore have a shot at .32 xG while on Sky Sports they said it was .25.
 -	Contextual Factors: It usually doesn't fully account for player skill, weather conditions, or specific in-game situations.
 
+
+![compare](https://github.com/user-attachments/assets/f236ec94-21f7-4a25-b6b7-baf6b55acca6)
+
+![lrm](https://github.com/user-attachments/assets/83fd8a4b-d5c4-42b8-b4df-88ed67070b60)
+
+![rfm](https://github.com/user-attachments/assets/fbf62fea-5074-48f8-ba4d-60951871fb9f)
+
+
+
  
 
  
